@@ -6,8 +6,22 @@
     <description>Recent content in Portfolios on John Palmer</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 06 Apr 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 13 May 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://johnrbpalmer.com/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Evidence of kinship, overwintering, and Wolbachia presence in Aedes albopictus in urban areas and points of entry in the Netherlands</title>
+      <link>https://johnrbpalmer.com/portfolio/ibanez-et-al-2026/</link>
+      <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://johnrbpalmer.com/portfolio/ibanez-et-al-2026/</guid>
+      <description>&lt;h3 id=&#34;abstract&#34;&gt;Abstract&lt;/h3&gt;&#xA;&lt;p&gt;Background&#xA;The Asian tiger mosquito, Aedes albopictus, is an aggressive invasive vector responsible for transmitting important arboviruses. Its global spread has been largely facilitated by human-mediated transport, especially through trade and road networks. Since its first detection in the Netherlands in 2005, repeated introductions have occurred via pathways such as lucky bamboo imports, used tires, aircraft, and ground traffic. Despite ongoing surveillance and elimination efforts, uncertainties remain about the origins, recurrence, and establishment potential of these introductions.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Invasion dynamics of the disease vector Aedes japonicus in Spain</title>
+      <link>https://johnrbpalmer.com/portfolio/lucati-et-al-2026/</link>
+      <pubDate>Wed, 06 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://johnrbpalmer.com/portfolio/lucati-et-al-2026/</guid>
+      <description>&lt;h3 id=&#34;abstract&#34;&gt;Abstract&lt;/h3&gt;&#xA;&lt;p&gt;Native to East Asia, the Asian bush mosquito (Aedes japonicus) has recently expanded its global range, with established invasive populations in Europe and North America. Given its potential role as a vector of various arboviruses, understanding its invasion process and ecological dynamics is crucial for managing its spread and mitigating public health risks. In the Iberian Peninsula, the species was first detected in Asturias in 2018 and has since expanded to neighbouring regions. Here, we elucidate the invasion pathways and possible origins of Ae. japonicus populations in Spain using sequence data and microsatellite markers, and by screening for the presence of maternally transmitted bacteria of the genus Wolbachia. We analysed 635 Ae. japonicus from 14 countries, including Japan (native range), the United States, and 12 European countries. No clear association between haplotypes and geographical location was detected in any of the three genes analysed (nuclear ITS2, mitochondrial COI and ND4). Wolbachia was not detected in any of the screened samples. In contrast, microsatellite-based population structure analyses showed that most Spanish samples clustered closely with those from College Park, Maryland (USA), located near the Port of Baltimore, one of the largest ports in the United States and a recognised gateway for invasive species introductions. Northern Spain hosts major seaports such as Bilbao and Gijón, whereas the nearest established Ae. japonicus population in Europe lies over 1,000 km away in northeastern France. Taken together, these findings suggest that the most plausible invasion route of Ae. japonicus into Spain involves maritime transport from the eastern coast of the United States to northern Spanish ports, likely accompanied by additional minor introductions of European origin. The inclusion of additional microsatellite loci originally developed for Ae. albopictus yielded results consistent with those obtained using Ae. japonicus-specific loci, reinforcing the robustness of the observed patterns. This work provides new insights into the invasion process of Ae. japonicus in Europe and highlights the need for continuous monitoring and tailored interventions at key ports of entry.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>MosquitoID: Rapid metagenomic sequencing for offline mosquito surveillance</title>
       <link>https://johnrbpalmer.com/portfolio/ceruti-et-al-2026/</link>
