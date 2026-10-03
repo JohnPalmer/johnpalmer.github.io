@@ -6,8 +6,15 @@
     <description>Recent content on John Palmer</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 13 May 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 17 May 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://johnrbpalmer.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Citizen science deepens the ecological and climatic dimensions of mosquito surveillance</title>
+      <link>https://johnrbpalmer.com/portfolio/cerecedo-iglesias-et-al-2026/</link>
+      <pubDate>Sun, 17 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://johnrbpalmer.com/portfolio/cerecedo-iglesias-et-al-2026/</guid>
+      <description>&lt;h3 id=&#34;abstract&#34;&gt;Abstract&lt;/h3&gt;&#xA;&lt;p&gt;As mosquito-borne diseases continue to expand worldwide, integrating citizen science into vector surveillance presents untapped potential. This study compares ecological models of &lt;em&gt;Aedes albopictus&lt;/em&gt;, an invasive mosquito and global vector of dengue and other arboviruses, in Spain (2020–2022), using two contrasting data sources: traditional traps and citizen science. While both showed strong seasonal agreement, spatial discrepancies emerged in summer, particularly in northwestern Spain. These differences were linked to the broader environmental coverage provided by citizen scientists&amp;rsquo; observations, especially under extreme temperature and humidity conditions. Citizen scientists can report mosquito activity in places and times where traps are absent or ineffective, capturing real host-seeking behavior and reducing sampling biases inherent to fixed trap locations. Incorporating citizen science data into trap-based models improved monthly predictive performance, demonstrating its value as a complementary source. Combined, traditional traps and citizen science enhance mosquito surveillance, support early warning systems, and inform decisions under climate-driven range expansion.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Evidence of kinship, overwintering, and Wolbachia presence in Aedes albopictus in urban areas and points of entry in the Netherlands</title>
       <link>https://johnrbpalmer.com/portfolio/ibanez-et-al-2026/</link>
@@ -42,6 +49,13 @@
       <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
       <guid>https://johnrbpalmer.com/portfolio/falk-et-al-2025/</guid>
       <description></description>
+    </item>
+    <item>
+      <title>Integrating Citizen Science and Field Sampling into Next-Generation Early-Warning Systems for Vector Surveillance: Twenty Years of Municipal Detections of Aedes Invasive Mosquito Species in Spain</title>
+      <link>https://johnrbpalmer.com/portfolio/eritja-et-al-2025/</link>
+      <pubDate>Fri, 29 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://johnrbpalmer.com/portfolio/eritja-et-al-2025/</guid>
+      <description>&lt;h3 id=&#34;abstract&#34;&gt;Abstract&lt;/h3&gt;&#xA;&lt;p&gt;The spread of the invasive mosquitoes Aedes albopictus, Aedes aegypti, and Aedes japonicus in Spain represents an increasing public health risk due to their capacity to transmit arboviruses such as dengue, Zika, and chikungunya, among others. Traditional field entomological surveillance remains essential for tracking their spread, but it faces limitations in terms of cost, scalability, and labor intensity. Since 2014, the Mosquito Alert citizen-science project has enabled public participation in surveillance through the submission of geolocated images via a mobile app, which are identified using AI in combination with expert validation. While field surveillance provides high accuracy, citizen science offers low-cost, large-scale, real-time data collection aligned with open data management principles. It is particularly useful for detecting long-distance dispersal events and has contributed up to one-third of the municipal detections of invasive mosquito species since 2014. This study assesses the value of integrating both surveillance systems to capitalize on their complementary strengths while compensating for their weaknesses in the areas of taxonomic accuracy, scalability, spatial detection patterns, data curation and validation systems, geographic precision, interoperability, and real-time output. We present the listing of municipal detections of these species from 2004 to 2024, integrating data from both sources. Spain’s integrated approach demonstrates a pioneering model for cost-effective, scalable vector surveillance tailored to the dynamics of invasive species and emerging epidemiological threats.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Effects of mosquito-proofing storm drains on adult and larval mosquito abundance: Protocol of the IDAlErt storm drAin randomiSed controlled trial (IDEAS)</title>
@@ -107,6 +121,13 @@
       <description></description>
     </item>
     <item>
+      <title>A fast and inexpensive genotyping system for the simultaneous analysis of human and Aedes albopictus short tandem repeats</title>
+      <link>https://johnrbpalmer.com/portfolio/albo-timor-et-al-2023/</link>
+      <pubDate>Thu, 05 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://johnrbpalmer.com/portfolio/albo-timor-et-al-2023/</guid>
+      <description>&lt;h3 id=&#34;abstract&#34;&gt;Abstract&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;Background&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Determination of the interactions between hematophagous mosquitoes and their human hosts is of great importance for better understanding the transmission dynamics of mosquito-borne arboviruses and developing effective strategies to mitigate risk. Genetic analysis of human and mosquito DNA can play a key role in this, but commercial kits for human short tandem repeat (STR) genotyping are expensive and do not allow for the simultaneous STR analysis of host and vector DNA. Here, we present an inexpensive and straightforward STR-loci multiplex system capable of simultaneously amplifying &lt;em&gt;Aedes albopictus&lt;/em&gt; and human STRs from blood-fed mosquitoes. Additionally, we examine the effect of storage methods and post-feeding time on the integrity of host DNA.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Drivers of longevity of wild-caught Aedes albopictus populations</title>
       <link>https://johnrbpalmer.com/portfolio/blanco-et-al-2023/</link>
       <pubDate>Sat, 16 Sep 2023 00:00:00 +0000</pubDate>
@@ -149,6 +170,13 @@
       <description>&lt;h3 id=&#34;abstract&#34;&gt;Abstract&lt;/h3&gt;&#xA;&lt;p&gt;Physical distancing and contact tracing are two key components in controlling the COVID-19 epidemics. Understanding their interaction at local level is important for policymakers. We propose a flexible modeling framework to assess the effect of combining contact tracing with different physical distancing strategies. Using scenario tree analyses, we compute the probability of COVID-19 detection using passive surveillance, with and without contact tracing, in metropolitan Barcelona. The estimates of detection probability and the frequency of daily social contacts are fitted into an age-structured susceptible-exposed-infectious-recovered compartmental model to simulate the epidemics considering different physical distancing scenarios over a period of 26 weeks. With the original Wuhan strain, the probability of detecting an infected individual without implementing physical distancing would have been 0.465, 0.515, 0.617, and 0.665 in designated age groups (0–14, 15–49, 50–64, and &amp;gt;65), respectively. As the physical distancing measures were reinforced and the disease circulation decreased, the interaction between the two interventions resulted in a reduction of the detection probabilities; however, despite this reduction, active contact tracing and isolation remained an effective supplement to physical distancing. If we relied solely on passive surveillance for diagnosing COVID-19, the model required a minimal 50% (95% credible interval, 39–69%) reduction of daily social contacts to keep the infected population under 5%, as compared to the 36% (95% credible interval, 22–56%) reduction with contact tracing systems. The simulation with the B.1.1.7 and B.1.167.2 strains shows similar results. Our simulations showed that a functioning contact tracing program would reduce the need for physical distancing and mitigate the COVID-19 epidemics.&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Publishing data to support the fight against human vector-borne diseases</title>
+      <link>https://johnrbpalmer.com/portfolio/edmunds-et-al-2022/</link>
+      <pubDate>Thu, 03 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://johnrbpalmer.com/portfolio/edmunds-et-al-2022/</guid>
+      <description>&lt;h3 id=&#34;abstract&#34;&gt;Abstract&lt;/h3&gt;&#xA;&lt;p&gt;Vector-borne diseases are responsible for more than 17% of human cases of infectious diseases. In most situations, effective control of debilitating and deadly vector-bone diseases (VBDs), such as malaria, dengue, chikungunya, yellow fever, Zika and Chagas requires up-to-date, robust and comprehensive information on the presence, diversity, ecology, bionomics and geographic spread of the organisms that carry and transmit the infectious agents. Huge gaps exist in the information related to these vectors, creating an essential need for campaigns to mobilise and share data. The publication of data papers is an effective tool for overcoming this challenge. These peer-reviewed articles provide scholarly credit for researchers whose vital work of assembling and publishing well-described, properly-formatted datasets often fails to receive appropriate recognition. To address this, GigaScience&amp;rsquo;s sister journal GigaByte partnered with the Global Biodiversity Information Facility (GBIF) to publish a series of data papers, with support from the Special Programme for Research and Training in Tropical Diseases (TDR), hosted by the World Health Organisation (WHO). Here we outline the initial results of this targeted approach to sharing data and describe its importance for controlling VBDs and improving public health.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Integrating Global Citizen Science Platforms to Enable Next-Generation Surveillance of Invasive and Vector Mosquitoes</title>
       <link>https://johnrbpalmer.com/portfolio/insects/</link>
       <pubDate>Wed, 27 Jul 2022 00:00:00 +0000</pubDate>
@@ -156,17 +184,17 @@
       <description></description>
     </item>
     <item>
-      <title> Mosquito alert: leveraging citizen science to create a GBIF mosquito occurrence dataset</title>
-      <link>https://johnrbpalmer.com/portfolio/gigabyte-malert/</link>
-      <pubDate>Tue, 31 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://johnrbpalmer.com/portfolio/gigabyte-malert/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>First pan-European harmonized surveillance of Aedes invasive mosquito species of relevance for human vector-borne diseases</title>
+      <title>AIMSurv: First pan-European harmonized surveillance of Aedes invasive mosquito species of relevance for human vector-borne diseases</title>
       <link>https://johnrbpalmer.com/portfolio/gigabyte-aim-cost/</link>
       <pubDate>Tue, 31 May 2022 00:00:00 +0000</pubDate>
       <guid>https://johnrbpalmer.com/portfolio/gigabyte-aim-cost/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mosquito Alert: leveraging citizen science to create a GBIF mosquito occurrence dataset</title>
+      <link>https://johnrbpalmer.com/portfolio/gigabyte-malert/</link>
+      <pubDate>Tue, 31 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://johnrbpalmer.com/portfolio/gigabyte-malert/</guid>
       <description></description>
     </item>
     <item>
@@ -216,6 +244,13 @@
       <link>https://johnrbpalmer.com/portfolio/eritja-et-al-2017/</link>
       <pubDate>Tue, 24 Oct 2017 00:00:00 +0000</pubDate>
       <guid>https://johnrbpalmer.com/portfolio/eritja-et-al-2017/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Movement behavior of a tropical mammal: The case of Tapirus terrestris</title>
+      <link>https://johnrbpalmer.com/portfolio/gonzalez-et-al-2017/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>https://johnrbpalmer.com/portfolio/gonzalez-et-al-2017/</guid>
       <description></description>
     </item>
   </channel>
